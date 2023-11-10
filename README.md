@@ -11,14 +11,14 @@ Our strategy to tackle this problem is create a fashion-focused web application,
 ## Table of Contents
 
 - [Usage](#usage)
-- [Credits](#credits[FitCheck Members])
+- [Credits](#credits)
 
 ## Usage
 
 Currently, our website is experiencing temporary limitations as we have been unable to find a free platform to host the Express server. As a consequence, only the creators of the website have access to its functionalities. While we are actively working to find a suitable platform to host the Express server, in the meantime, we encourage interested users to reach out to me, or one of our collaborators. We will be more than happy to provide you with a demonstration of the website's functionalities and answer any questions you may have. Thank you for your understanding!
 
-## Credits[FitCheck Members]
-
+## Credits
+[FitCheck Members]
 David Chen: davidchen6628@gmail.com, https://github.com/dchen628<br>
 Jason Hu: jason730hu@gmail.com, https://github.com/Jhu730<br>
 Tanveer Mahmood: mynameistanveeer@gmail.com, https://github.com/xJodye<br>
