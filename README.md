@@ -11,8 +11,7 @@ Our strategy to tackle this problem is create a fashion-focused web application,
 ## Table of Contents
 
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Credits](#credits[FitCheck Members])
 
 ## Usage
 
