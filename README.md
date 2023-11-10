@@ -12,6 +12,7 @@ Our strategy to tackle this problem is create a fashion-focused web application,
 
 - [Usage](#usage)
 - [Credits](#credits)
+- [Features](#features)
 
 ## Usage
 
